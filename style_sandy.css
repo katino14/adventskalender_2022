@@ -154,9 +154,10 @@ input, select, textarea {
 		-ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		text-decoration: none;
-		color: #585858;
+		color: #f405ff7;
 		border-bottom: dotted 1px rgba(88, 88, 88, 0.5);
 	}
+
 
 		a:hover {
 			border-bottom-color: transparent;
@@ -2392,9 +2393,9 @@ input, select, textarea {
 	}
 
 		table tbody tr {
-			border: solid 1px #c9c9c9;
-			border-left: solid 1px #c9c9c9;
-			border-right: solid 1px #c9c9c9;
+			border: solid 0px #c9c9c9;
+			border-left: solid 0px #c9c9c9;
+			border-right: solid 0px #c9c9c9;
        }
 		}
 
@@ -2403,9 +2404,9 @@ input, select, textarea {
 			}
 
 		table td {
-			padding: 0.75em 0.75em;
-      border-left: solid 1px #c9c9c9;
-			border-right: solid 1px #c9c9c9;
+			padding: 0em 0em;
+      border-left: solid 0px #c9c9c9;
+			border-right: solid 0px #c9c9c9;
       text-align: bottom;
       vertical-align: middle;
       
